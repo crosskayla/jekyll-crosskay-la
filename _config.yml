@@ -63,15 +63,15 @@ google_analytics:
 #
 theme_mode: # [light|dark]
 
-# The CDN endpoint for images.
+# The CDN endpoint for img.
 # Notice that once it is assigned, the CDN url
-# will be added to all image (site avatar & posts' images) paths starting with '/'
+# will be added to all image (site avatar & posts' img) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/images/avatar_vector.png"
+avatar: "/assets/img/avatar_vector.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
